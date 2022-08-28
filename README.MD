@@ -43,7 +43,7 @@
  <p align="left">
 <a href="https://www.instagram.com/c.chamith/"><img align="center" src="https://i.imgur.com/ybYXxn1.png" alt="Instagram" height="80" width="80" /></a>
    
-### ```𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼```
+### ```𝙶𝙼𝙰𝙸𝙻```
  <p align="left">
 <a href=mailto:chamith343@gmail.com/"><img align="center" src="https://i.imgur.com/F257zKm.png" alt="gmail" height="80" width="80" /></a>
 
