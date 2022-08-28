@@ -39,9 +39,15 @@
  <p align="left">
 <a href="http://t.me/+94769228163"><img align="center" src="https://i.imgur.com/pgrTJqw.png" alt="My Whatsapp" height="80" width="80" /></a>
    
- ### ```𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼```
+ ### ```𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼```
  <p align="left">
 <a href="https://www.instagram.com/c.chamith/"><img align="center" src="https://i.imgur.com/ybYXxn1.png" alt="My Whatsapp" height="80" width="80" /></a>
+   
+### ```𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼```
+ <p align="left">
+<a href=mailto:chamith343@gmail.com/"><img align="center" src="https://i.imgur.com/ybYXxn1.png" alt="My Whatsapp" height="80" width="80" /></a>
+
+   
    
 ### ```𝚂𝙰𝚅𝙴 𝙲𝙾𝙽𝚃𝙰𝙲𝚃```
  <p align="left">
