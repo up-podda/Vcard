@@ -29,7 +29,7 @@
 # 
 ### ```𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺```
  <p align="left">
-<a href="https://www.facebook.com/chamith343"><img align="center" src="https://i.imgur.com/XrSrhOe.png" alt="My Whatsapp" height="100" width="100" /></a>
+<a href="https://www.facebook.com/chamith343"><img align="center" src="https://i.imgur.com/XrSrhOe.png" alt="My Whatsapp" height="80" width="80" /></a>
 
 ### ```𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿```
  <p align="left">
