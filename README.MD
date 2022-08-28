@@ -34,13 +34,11 @@
 ### ```𝚂𝙰𝚅𝙴 𝙲𝙾𝙽𝚃𝙰𝙲𝚃```
  <p align="left">
 <a href="https://drive.google.com/file/d/1CGadQguBWtObEb0EnT9bk2A2rqrimdu6/view?usp=drivesdk" download="w3logo"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
-   
 
-``` I am in no way responsible for any mistakes you may make !```
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
-#### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
-+ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
-+ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
+<div align="left">
+#### ```𝙵𝚁𝙾 𝙼𝙾𝚁𝙴```
+<h2>+ [`𝙹𝙾𝙸𝙽 𝚂𝚃𝙰𝚃𝚄𝚂 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
++ [`𝙹𝙾𝙸𝙽 𝙱𝙾𝚃 𝙶𝚁𝙾𝚄𝙿`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
 <div align="center">
 <a href="https://i.imgur.com/2ZP1lzk.jpeg" download>
