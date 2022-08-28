@@ -50,7 +50,7 @@
 
 <a href="https://i.imgur.com/2ZP1lzk.jpeg" download>
 
-  <img src="" alt="W3Schools">
+  <img src="https://i.imgur.com/2ZP1lzk.jpeg" alt="W3Schools">
 
 </a>
 
