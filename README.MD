@@ -35,11 +35,6 @@
  <p align="left">
 <a href="https://drive.google.com/file/d/1CGadQguBWtObEb0EnT9bk2A2rqrimdu6/view?usp=drivesdk" download="w3logo"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
    
-##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FRO DEPLOY YOUR BOT
-            https://heroku.com/deploy?template=
-# 
-# 
-# QUEEN ELISA V2 IS COMING SOON !!! 👸
 
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
