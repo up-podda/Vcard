@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/2ZP1lzk.jpeg" width="200" height="200">
-  
+  <𝚋𝚛>
 <div align="left">
   </a>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝙼𝚈+𝚅𝚌𝚊𝚛𝚍&font=Fira%20Code&center=true&width=380&height=50">
 
 </a>
 
