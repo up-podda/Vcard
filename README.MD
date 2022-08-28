@@ -35,9 +35,9 @@
  <p align="left">
 <a href="https://wa.me/message/7Z6RMXP3AEQUA1"><img align="center" src="https://i.imgur.com/HWQYt49.png" alt="My Whatsapp" height="100" width="100" /></a>
    
- ### ```𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿```
+ ### ```𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼```
  <p align="left">
-<a href="http://t.me/+94769228163"><img align="center" src="https://i.imgur.com/pgrTJqw.png" alt="My Whatsapp" height="100" width="100" /></a>
+<a href="http://t.me/+94769228163"><img align="center" src="https://i.imgur.com/pgrTJqw.png" alt="My Whatsapp" height="80" width="80" /></a>
    
 ### ```𝚂𝙰𝚅𝙴 𝙲𝙾𝙽𝚃𝙰𝙲𝚃```
  <p align="left">
