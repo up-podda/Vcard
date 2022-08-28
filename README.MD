@@ -38,7 +38,7 @@
 
 ### ```𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿```
  <p align="left">
-<a href="https://qr-scan.it/g/2qfbPV0NUx2"><img align="center" src="https://images.app.goo.gl/mvofNzn1nyiQt3YP8" alt="My Whatsapp" height="50" width="150" /></a>
+<a href="https://qr-scan.it/g/2qfbPV0NUx2"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="50" width="150" /></a>
 
 
 
