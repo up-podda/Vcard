@@ -35,7 +35,7 @@
 
 ### ```𝚂𝙰𝚅𝙴 𝙲𝙾𝙽𝚃𝙰𝙲𝚃```
  <p align="left">
-<a href="https://qr-scan.it/g/2qfbPV0NUx2"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
+<img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
    
 ##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FRO DEPLOY YOUR BOT
             https://heroku.com/deploy?template=
@@ -55,7 +55,6 @@
   <img src="" alt="W3Schools">
 
 </a>
-<a href="https://drive.google.com/file/d/1CGadQguBWtObEb0EnT9bk2A2rqrimdu6/view?usp=drivesdk" download="w3logo">
   <img src="https://i.imgur.com/ybYXxn1.png" alt="W3Schools">
 </a>
 
