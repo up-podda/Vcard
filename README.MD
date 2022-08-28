@@ -43,6 +43,10 @@
  <p align="left">
 <a href="https://www.instagram.com/c.chamith/"><img align="center" src="https://i.imgur.com/ybYXxn1.png" alt="Instagram" height="80" width="80" /></a>
    
+ ### ```𝚃𝚆𝙸𝚃𝚃𝙴𝚁```
+  <p align="left">
+<a href="https://twitter.com/chamith343?t=njsHUkSce_qGh5sairzT9Q&s=09"><img align="center" src="https://telegra.ph/file/63eac9e8e8512513c1af8.png" alt="𝚃𝚆𝙸𝚃𝚃𝙴𝚁" height="80" width="80" /></a>
+   
 ### ```𝙶𝙼𝙰𝙸𝙻```
  <p align="left">
 <a href=mailto:chamith343@gmail.com/"><img align="center" src="https://i.imgur.com/F257zKm.png" alt="gmail" height="80" width="80" /></a>
