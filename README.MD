@@ -33,8 +33,8 @@
   
 # 
 ### 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿
- <p align="">
-<a href="https://wa.me/message/7Z6RMXP3AEQUA1"><img align="center" src="https://i.imgur.com/HWQYt49.png" alt="Fork and deploy" height="100" width="100" /></a>
+ <p align="left">
+<a href="https://wa.me/message/7Z6RMXP3AEQUA1"><img align="center" src="https://i.imgur.com/HWQYt49.png" alt="My Whatsapp" height="100" width="100" /></a>
 
 ### SCAN QR CODE 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mrnimaofc/Queen-Elisa-MD?v=1?outputonly=1&lite=1#index.js)
