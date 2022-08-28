@@ -4,7 +4,7 @@
 
 ![logo](https://telegra.ph/file/a0dbf8b605b80d7a43f95.jpg)
 
-<h1 align="center"><b> ༒☬ꪶ࿋྄ིᤢꫂÇhͥαmͣïͫ†h༻☬༒ </b></h1>
+<h2 align="center"><b> ༒☬ꪶ࿋྄ིᤢꫂÇhͥαmͣïͫ†h༻☬༒ </b></h1>
 
 </a>
 
