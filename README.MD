@@ -48,12 +48,10 @@
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
 
-<a href="" download>
+<a href="https://i.imgur.com/2ZP1lzk.jpeg" download>
 
   <img src="" alt="W3Schools">
 
-</a>
-  <img src="https://i.imgur.com/2ZP1lzk.jpeg" alt="W3Schools">
 </a>
 
 
