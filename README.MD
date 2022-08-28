@@ -19,22 +19,15 @@
 </a>
 
 #### ```𝙽𝙰𝙼𝙴 ```
-𝗛.𝗞 𝗖𝗵𝗮𝗺𝗶𝘁𝗵 𝗖𝗵𝗮𝘁𝗵𝘂𝗿𝗮𝗻𝗴𝗮 𝗙𝗘𝗥𝗡𝗔𝗡𝗗𝗢
+<h2>𝗛.𝗞 𝗖𝗵𝗮𝗺𝗶𝘁𝗵 𝗖𝗵𝗮𝘁𝗵𝘂𝗿𝗮𝗻𝗴𝗮 𝗙𝗘𝗥𝗡𝗔𝗡𝗗𝗢
 
 #### ```𝙳𝙰𝚃𝙴 𝚘𝚏 𝙱𝚒𝚛𝚝𝚑 ```
-27/02/2001
+<h2><b>27/02/2001</h2></b>
 
 #### ```𝙰𝙳𝙳𝚁𝙴𝚂𝚂```
-<a href="https://maps.app.goo.gl/2kGbk8tGYND8XGw46">𝗔𝗞𝗞𝗔𝗥𝗔 8,𝗕𝗢𝗠𝗕𝗨𝗪𝗔𝗟𝗔,𝗗𝗢𝗗𝗔𝗡𝗚𝗢𝗗𝗔,𝗞𝗔𝗟𝗨𝗧𝗔𝗥𝗔.</a>
-4. Add app name and deploy 
-5. Watch your heroku log 
-
-##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/wXovNeqOHSo)
+<h2><a href="https://maps.app.goo.gl/2kGbk8tGYND8XGw46">𝗔𝗞𝗞𝗔𝗥𝗔 8,𝗕𝗢𝗠𝗕𝗨𝗪𝗔𝗟𝗔,𝗗𝗢𝗗𝗔𝗡𝗚𝗢𝗗𝗔,𝗞𝗔𝗟𝗨𝗧𝗔𝗥𝗔.</a>
 
 
-<div align="left">
-  <img src="https://telegra.ph/file/30f0019baa0dc2715c62d.jpg" width="180" height="100ll">
-  
 # 
 ### ```𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿```
  <p align="left">
