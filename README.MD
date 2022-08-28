@@ -4,7 +4,7 @@
 <div align="left">
   </a>
 
-![logo](https://i.imgur.com/2ZP1lzk.jpeg)
+![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
 
 <h1 align="center"><b> ༒☬ꪶ࿋྄ིᤢꫂÇhͥαmͣïͫ†h༻☬༒ </b></h1>
 
