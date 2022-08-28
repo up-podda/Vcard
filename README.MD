@@ -16,13 +16,13 @@
 
 </a>
 
-#### ```𝙽𝙰𝙼𝙴 ```
+### ```𝙽𝙰𝙼𝙴 ```
 <h2>𝗛.𝗞 𝗖𝗵𝗮𝗺𝗶𝘁𝗵 𝗖𝗵𝗮𝘁𝗵𝘂𝗿𝗮𝗻𝗴𝗮 𝗙𝗘𝗥𝗡𝗔𝗡𝗗𝗢
 
-#### ```𝙳𝙰𝚃𝙴 𝚘𝚏 𝙱𝚒𝚛𝚝𝚑 ```
+### ```𝙳𝙰𝚃𝙴 𝚘𝚏 𝙱𝚒𝚛𝚝𝚑 ```
 <h2><b>27/02/2001</h2></b>
 
-#### ```𝙰𝙳𝙳𝚁𝙴𝚂𝚂```
+### ```𝙰𝙳𝙳𝚁𝙴𝚂𝚂```
 <h2><a href="https://maps.app.goo.gl/2kGbk8tGYND8XGw46">𝗔𝗞𝗞𝗔𝗥𝗔 8,𝗕𝗢𝗠𝗕𝗨𝗪𝗔𝗟𝗔,𝗗𝗢𝗗𝗔𝗡𝗚𝗢𝗗𝗔,𝗞𝗔𝗟𝗨𝗧𝗔𝗥𝗔.</a>
 
 
@@ -57,7 +57,7 @@
  <p align="left">
 <a href="https://drive.google.com/file/d/1CGadQguBWtObEb0EnT9bk2A2rqrimdu6/view?usp=drivesdk" download="w3logo"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
 
-#### ```𝙼𝚈 𝙶𝚁𝙾𝚄𝙿𝚂```
+## ```𝙼𝚈 𝙶𝚁𝙾𝚄𝙿𝚂```
 + [`𝙹𝙾𝙸𝙽 𝚂𝚃𝙰𝚃𝚄𝚂 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/J3ncUnOkECc7we5k8x3qzy) 
 + [`𝙹𝙾𝙸𝙽 𝙱𝙾𝚃 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/JYoFqGLazzWF6wiFrMhgO2)
 
