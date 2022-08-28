@@ -51,8 +51,6 @@
  <p align="left">
 <a href=mailto:chamith343@gmail.com/"><img align="center" src="https://i.imgur.com/F257zKm.png" alt="gmail" height="80" width="80" /></a>
 
-   
-   
 ### ```𝚂𝙰𝚅𝙴 𝙲𝙾𝙽𝚃𝙰𝙲𝚃```
  <p align="left">
 <a href="https://drive.google.com/file/d/1CGadQguBWtObEb0EnT9bk2A2rqrimdu6/view?usp=drivesdk" download="w3logo"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
@@ -67,7 +65,3 @@
   <img src="https://i.imgur.com/2ZP1lzk.jpeg" alt="W3Schools">
 
 </a>
-
- href=mailto:<nowiki>agentavery@sample.com?subject="HTML link">Click here to send us an email!!!</a>
-
- 
