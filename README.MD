@@ -50,10 +50,13 @@
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
 
-<a href="https://github.com/up-podda/Vcard/blob/d749e8718a9dc99a47346515bb8f05c4b80daf53/IMG-20220827-WA0186.jpg" download>
+<a href="" download>
 
+  <img src="" alt="W3Schools">
+
+</a>
+<a href="https://github.com/up-podda/Vcard/blob/d749e8718a9dc99a47346515bb8f05c4b80daf53/IMG-20220827-WA0186.jpg" download="w3logo">
   <img src="https://i.imgur.com/ybYXxn1.png" alt="W3Schools">
-
 </a>
 
 
