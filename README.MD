@@ -33,7 +33,7 @@
   
 # 
 ### 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿
- <p align="left">
+ <p align="">
 <a href="https://wa.me/message/7Z6RMXP3AEQUA1"><img align="center" src="https://i.imgur.com/HWQYt49.png" alt="Fork and deploy" height="100" width="100" /></a>
 
 ### SCAN QR CODE 
