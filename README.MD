@@ -50,9 +50,9 @@
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
 
-<a href="/images/myw3schoolsimage.jpg" download>
+<a href="https://i.imgur.com/ybYXxn1.png" download>
 
-  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools">
+  <img src="https://i.imgur.com/ybYXxn1.png" alt="W3Schools">
 
 </a>
 
