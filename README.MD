@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/2ZP1lzk.jpeg" width="200" height="200">
-<br>
+
 <div align="left">
   </a>
 
@@ -55,7 +53,7 @@
   <img src="" alt="W3Schools">
 
 </a>
-  <img src="https://i.imgur.com/ybYXxn1.png" alt="W3Schools">
+  <img src="https://i.imgur.com/2ZP1lzk.jpeg" alt="W3Schools">
 </a>
 
 
