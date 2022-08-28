@@ -6,7 +6,7 @@
 
 ![logo](https://i.imgur.com/2ZP1lzk.jpeg)
 
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> ༒☬ꪶ࿋྄ིᤢꫂÇhͥαmͣïͫ†h༻☬༒ </b></h1>
 
 </a>
 
