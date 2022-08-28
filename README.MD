@@ -35,11 +35,9 @@
 ### ```𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿```
  <p align="left">
 <a href="https://wa.me/message/7Z6RMXP3AEQUA1"><img align="center" src="https://i.imgur.com/HWQYt49.png" alt="My Whatsapp" height="100" width="100" /></a>
-#
-<div align="center">
-# 
+
 ### ```𝚂𝙰𝚅𝙴 𝙲𝙾𝙽𝚃𝙰𝙲𝚃```
- <p align="center">
+ <p align="left">
 <a href="https://qr-scan.it/g/2qfbPV0NUx2"><img align="center" src="https://i.imgur.com/l8C0Jey.jpeg" alt="My Whatsapp" height="100" width="300" /></a>
 # 
 ##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FRO DEPLOY YOUR BOT
