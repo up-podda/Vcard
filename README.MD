@@ -36,8 +36,12 @@
  <p align="left">
 <a href="https://wa.me/message/7Z6RMXP3AEQUA1"><img align="center" src="https://i.imgur.com/HWQYt49.png" alt="My Whatsapp" height="100" width="100" /></a>
 
-### SCAN QR CODE 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mrnimaofc/Queen-Elisa-MD?v=1?outputonly=1&lite=1#index.js)
+### ```𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿```
+ <p align="left">
+<a href="https://qr-scan.it/g/2qfbPV0NUx2"><img align="center" src="https://images.app.goo.gl/mvofNzn1nyiQt3YP8" alt="My Whatsapp" height="50" width="150" /></a>
+
+
+
 # 
 ##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FRO DEPLOY YOUR BOT
             https://heroku.com/deploy?template=
