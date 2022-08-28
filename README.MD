@@ -7,7 +7,7 @@
 <div align="left">
   </a>
 
-![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
+![logo](https://i.imgur.com/2ZP1lzk.jpeg)
 
 <h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
