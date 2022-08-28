@@ -1,10 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙲𝙷𝙰𝚃𝙷𝚄𝚁𝙰𝙽𝙶𝙰;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝙿𝙰𝙶𝙴;𝘛𝘏𝘈𝘕𝘒𝘚+𝙵𝙾𝚁+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝚅𝚌𝚊𝚛𝚍)](https://git.io/typing-svg)
-
 <div align="center">
   <img src="https://i.imgur.com/2ZP1lzk.jpeg" width="300" height="300">
   
-#  ◍ 𝙲𝚑𝚊𝚖𝚒𝚝𝚑 𝙲𝚑𝚊𝚝𝚑𝚞𝚛𝚊𝚗𝚐𝚊 ◍ 
-<div align="left">
+<div align="center">
   </a>
 
 ![logo](https://i.imgur.com/2ZP1lzk.jpeg)
