@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/2ZP1lzk.jpeg" width="300" height="300">
   
-<div align="center">
+<div align="left">
   </a>
 
 ![logo](https://i.imgur.com/2ZP1lzk.jpeg)
@@ -18,7 +18,6 @@
 
 </a>
 
-<div align="left">
 #### ```How To deploy ```
 1. Fork This repo
 2. Scan Qr Code 
