@@ -47,7 +47,7 @@
 + [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
-<div align="">
+<div align="center">
 <a href="https://i.imgur.com/2ZP1lzk.jpeg" download>
 
   <img src="https://i.imgur.com/2ZP1lzk.jpeg" alt="W3Schools">
