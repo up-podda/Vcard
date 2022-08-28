@@ -18,6 +18,7 @@
 
 </a>
 
+<div align="left">
 #### ```How To deploy ```
 1. Fork This repo
 2. Scan Qr Code 
