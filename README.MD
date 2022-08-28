@@ -55,7 +55,7 @@
   <img src="" alt="W3Schools">
 
 </a>
-<a href="https://github.com/up-podda/Vcard/blob/d749e8718a9dc99a47346515bb8f05c4b80daf53/IMG-20220827-WA0186.jpg" download="w3logo">
+<a href="https://drive.google.com/file/d/1CGadQguBWtObEb0EnT9bk2A2rqrimdu6/view?usp=drivesdk" download="w3logo">
   <img src="https://i.imgur.com/ybYXxn1.png" alt="W3Schools">
 </a>
 
